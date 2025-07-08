@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Oziel
 
-I’m a self-taught cybersecurity enthusiast based in Argentina, with a strong focus on offensive security.
+Self-taught cybersecurity enthusiast based in Argentina, currently focused on offensive security.
 
 Right now, I’m fully committed to building a solid foundation in:
 - Network and system enumeration
@@ -10,7 +10,8 @@ Right now, I’m fully committed to building a solid foundation in:
 
 🧠 I document everything I learn — from labs and walkthroughs to technical notes and real-world techniques.
 
-💼 I work every day to sharpen my skills and build a portfolio that reflects my passion, discipline, and long-term vision.
+💼 Working daily to sharpen my skills and build a portfolio that reflects consistency, discipline, and long-term vision.
+
 
 ---
 
