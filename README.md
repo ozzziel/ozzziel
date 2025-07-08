@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hola, soy Oziel
 
-<!--
-**ozzziel/ozzziel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante autodidacta enfocado en ciberseguridad ofensiva. Me estoy formando por mi cuenta en hacking ético, trabajando todos los días con disciplina, constancia y objetivos claros.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Actualmente aprendiendo:
+- Fundamentos de redes y Linux
+- Escaneo de sistemas (Nmap)
+- Hacking en entornos controlados (TryHackMe)
+- Ciberseguridad ofensiva y pruebas de penetración
+
+---
+
+## 🎯 Objetivos a corto y largo plazo:
+- Convertirme en profesional del hacking ético
+- Construir un portafolio técnico sólido con casos reales
+- Trabajar en ciberseguridad a nivel internacional
+- Seguir aprendiendo y creciendo por mi cuenta
+
+---
+
+## 🛠️ Herramientas que uso:
+- Kali Linux
+- Nmap
+- Wireshark
+- Burp Suite
+- GitHub
+- TryHack
