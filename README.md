@@ -1,29 +1,29 @@
-# 👋 Hola, soy Oziel
+# 👋 Hi there, I'm Oziel
 
-Soy un estudiante autodidacta enfocado en ciberseguridad ofensiva. Me estoy formando por mi cuenta en hacking ético, trabajando todos los días con disciplina, constancia y objetivos claros.
+I’m a self-taught cybersecurity enthusiast based in Argentina, with a strong focus on offensive security.
 
----
+Right now, I’m fully committed to building a solid foundation in:
+- Network and system enumeration
+- Web application hacking
+- Linux essentials and shell scripting
+- Red teaming tools and methodologies
 
-## 🧠 Actualmente aprendiendo:
-- Fundamentos de redes y Linux
-- Escaneo de sistemas (Nmap)
-- Hacking en entornos controlados (TryHackMe)
-- Ciberseguridad ofensiva y pruebas de penetración
+🧠 I document everything I learn — from labs and walkthroughs to technical notes and real-world techniques.
 
----
-
-## 🎯 Objetivos a corto y largo plazo:
-- Convertirme en profesional del hacking ético
-- Construir un portafolio técnico sólido con casos reales
-- Trabajar en ciberseguridad a nivel internacional
-- Seguir aprendiendo y creciendo por mi cuenta
+💼 I work every day to sharpen my skills and build a portfolio that reflects my passion, discipline, and long-term vision.
 
 ---
 
-## 🛠️ Herramientas que uso:
-- Kali Linux
-- Nmap
-- Wireshark
-- Burp Suite
-- GitHub
-- TryHack
+### 🔧 Tools & Technologies I'm working with:
+- Kali Linux, Nmap, Burp Suite, Wireshark, Metasploit
+- Python (scripting & automation), Bash
+- TryHackMe labs and custom vulnerable machines
+
+---
+
+### 🌍 My goal
+To become a world-class ethical hacker capable of solving complex security challenges, helping organizations stay secure, and giving my family a better life.
+
+---
+
+📁 Explore my repositories to follow my technical journey and progress.
