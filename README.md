@@ -26,4 +26,4 @@ To become a world-class ethical hacker capable of solving complex security chall
 
 ---
 
-📁 Explore my repositories to follow my technical journey and progress.
+📁 Explore my repositories to follow my technical journey and progress. 
